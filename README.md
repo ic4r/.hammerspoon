@@ -6,3 +6,7 @@
 - Getting start: http://www.hammerspoon.org/go/
 - Lua script 문법: https://learnxinyminutes.com/docs/lua/
 
+
+## 추가한 코드
+> modules.auto_script.lua 
+> - auto click, auto forward For GGliding
